@@ -100,6 +100,11 @@ Ajouter des idées dans le readme au niveau de "A venir"
 
 ## License
 
+MIT License
+
+Copyright (c) 2025 Léa
+
+
 ## Contact
 
 - Portfolio : https://buonomolea.github.io/BUONOMO_Lea_Portfolio_2025_FR/  
