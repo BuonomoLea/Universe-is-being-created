@@ -4,6 +4,8 @@ Une expérience web immersive et minimaliste qui explore la création d’un uni
 Ce projet met l’accent sur la simplicité, l’accessibilité et la modularité.
 A termes ce projet me permettra la création d'une gallerie comprenant mes projets les plus originaux.
 
+<img width="947" height="455" alt="Capture d'écran 2025-07-20 211329" src="https://github.com/user-attachments/assets/3559bcbe-407e-466f-a67b-dc666d492996" />
+
 ---
 
 ## Sommaire
