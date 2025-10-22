@@ -96,7 +96,7 @@ Ajouter des idées dans le readme au niveau de "A venir"
 
 ### Ajout
 
-(En réfléxion)
+Ajout des media queries pour le format mobile max-width: 360px
 
 ### Amélioration
 
