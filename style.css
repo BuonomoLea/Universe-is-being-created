@@ -12,6 +12,7 @@ html, body {
     overflow-x: hidden;
 }
 body {
+    overflow: hidden;
     height: auto;
     --sb-track-color: #ffffff;
     --sb-thumb-color: #560c928f;
@@ -359,8 +360,7 @@ nav {
     right: 5vw;
 }
 
-
-
+/* PRESENTATION */
 .presentation {
     transform: translateY(25vh) translateX(15vw);
     width: fit-content;
@@ -592,11 +592,11 @@ form input::placeholder, form textarea::placeholder {
     height: min-content;
     padding: 2vh 3dvw;
   }
-  .container {
+  /* .container {
     min-height: 100vh;
     height: max-content;
     padding: 2vh 3dvw;
-  }
+  } */
   #bubble {
     top: 1vh;
     left: 1vh;
@@ -795,9 +795,10 @@ form input::placeholder, form textarea::placeholder {
     height: 155vh;
   }
   #contact {
-    height: 100vh;
+    height: 120vh;
   }
   #contact .formulaire {
+    top: auto;
     bottom: 10vh;
     left: 10vw;
     width: 80vw;
@@ -863,9 +864,11 @@ form input::placeholder, form textarea::placeholder {
     font-size: 2.5vw;
   }
 }
-
 /* Grands mobiles */
-@media (max-width: 480px) {
+@media (min-width: 361px) and (max-width: 480px) {
+    body {
+        overflow: hidden;
+    }
     .container-principal {
         height: 310vh;
     }
