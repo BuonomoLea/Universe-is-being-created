@@ -1,6 +1,6 @@
 # Universe is Being Created
 
-Une expérience web immersive et minimaliste qui explore la création d’un univers digital à travers une interface multi-pages statique.
+Un design immersive et minimaliste sur une interface multi-pages statique.
 Ce projet met l’accent sur la simplicité, l’accessibilité et la modularité.
 A termes ce projet me permettra la création d'une gallerie comprenant mes projets les plus originaux.
 
@@ -96,11 +96,11 @@ Ajouter des idées dans le readme au niveau de "A venir"
 
 ### Ajout
 
+Une lightbox pour la visualisation du projet et ses détails
+
+### Améliorations déjà réalisées
+
 Ajout des media queries pour le format mobile max-width: 360px
-
-### Amélioration
-
-(En réfléxion)
 
 ## License
 
